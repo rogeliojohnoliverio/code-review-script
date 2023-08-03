@@ -1,0 +1,25 @@
+{
+  "name": "@rjoliverio/code-review-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "code-review-script": "bin/commit.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogeliojohnoliverio/code-review-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogeliojohnoliverio/code-review-script/issues"
+  },
+  "homepage": "https://github.com/rogeliojohnoliverio/code-review-script#readme",
+  "dependencies": {
+    "simple-git": "^3.19.1"
+  }
+}
